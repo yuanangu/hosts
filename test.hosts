@@ -1,0 +1,13 @@
+# 测试环境
+192.168.5.124 sso.polyihome.test
+192.168.5.124 portal.polyihome.test
+192.168.5.124 uam.polyihome.test
+192.168.5.124 message.polyihome.test
+192.168.5.124 scheduler.polyihome.test
+192.168.5.124 filesvr.polyihome.test
+192.168.5.124 sales.polyihome.test
+192.168.5.124 img.polyihome.test
+192.168.5.124 redis01
+192.168.5.124 zookeeper01
+192.168.5.124 activemq01
+192.168.5.124 mockTelephone01
